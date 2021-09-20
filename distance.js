@@ -1,4 +1,4 @@
-const x1 = 7;
+const x1 = 6;
 const x2 = 9;
 const y1 = 4;
 const y2 = 3;
